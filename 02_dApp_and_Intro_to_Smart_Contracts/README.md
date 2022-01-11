@@ -1,6 +1,6 @@
 <b>Note:</b> I couldn't spend much time for Web3 today because of my school and work. However, I continued to learn some subjects, though in a short time.
 
-#❓ What is a Decentralized Application?
+# :question: What is a Decentralized Application?
 
 A DApp has:
 - A standard front-end
@@ -12,7 +12,7 @@ ___
 
 I used this post to understand Dapp and its connection with Ethereum: <b>A Guide to Ethereum Dapps</b> (https://www.freecodecamp.org/news/what-is-a-dapp-a-guide-to-ethereum-dapps/)
 
-#📝 My highlights on this post
+# :pencil: My highlights on this post
 
 - Ethereum removes the need for a third party to handle transactions between peers. Since the middle man is replaced by code, all kinds of costs are reduced, including time and money.
 <br />
@@ -45,17 +45,17 @@ You can use whatever frontend language/framework you want.
 
 ___
 
-📹 After reading this post and taking notes, I started <b>Smart Contracts course</b> available for free on Coursera (https://www.coursera.org/learn/smarter-contracts). I watched <b>Why Smart Contracts?</b> video and solved the quiz.
+:film_strip: After reading this post and taking notes, I started <b>Smart Contracts course</b> available for free on Coursera (https://www.coursera.org/learn/smarter-contracts). I watched <b>Why Smart Contracts?</b> video and solved the quiz.
 
 ___
 
-🎳 Also, I joined some Discord servers about Web3:
+:bowling: Also, I joined some Discord servers about Web3:
 
 - Web3 University: https://discord.gg/Wzf8aVBW
 - Thirdweb: https://discord.gg/eFDyAUam
 
 ___
 
-🤓 I started following this list on Twitter. So, I can read tweets from people interested in web3:
+:nerd_face: I started following this list on Twitter. So, I can read tweets from people interested in web3:
 
 https://twitter.com/i/lists/1433448123142115329
