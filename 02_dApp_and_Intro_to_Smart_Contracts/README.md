@@ -15,9 +15,7 @@ I used this post to understand Dapp and its connection with Ethereum: <b>A Guide
 # :pencil: My highlights on this post
 
 - Ethereum removes the need for a third party to handle transactions between peers. Since the middle man is replaced by code, all kinds of costs are reduced, including time and money.
-<br />
 - Bitcoin removes the need for someone to hold your money, Ethereum removes the need for someone to broker a deal.
-<br />
 - Smart contracts are essentially hosted on multiple computer nodes all across the world.
 
 ## The details of what a Dapp is:
